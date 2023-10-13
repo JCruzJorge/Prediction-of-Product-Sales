@@ -82,20 +82,33 @@ The initial phase involves exploring the dataset to understand its structure, id
 
 - This graph shows the number of stores opened during certain years.
 
+![Unknown-12](https://github.com/JCruzJorge/Prediction-of-Product-Sales/assets/139515726/2e8cee9e-69a6-4d4b-9713-3b697c6c7602)
+
+![Unknown-11](https://github.com/JCruzJorge/Prediction-of-Product-Sales/assets/139515726/083c9e96-f6b6-4941-a7d7-dea5c5f8e9b5)
+
+
 
 #### Univariate Analysis
 Univariate analysis involved exploring individual features. The analysis included histograms to visualize the distribution of numerical variables such as `Item_Weight` and `Item_MRP`. Boxplots were used to identify potential outliers in these variables. Count plots provided insights into categorical variables such as `Item_Fat_Content`, `Item_Type`, `Outlet_Size`, and `Outlet_Type`. 
 
+![Unknown-10](https://github.com/JCruzJorge/Prediction-of-Product-Sales/assets/139515726/9a5eff93-dba1-4f9b-90fb-2132719eca55)
 -------------------
 
 #### Multivariate Analysis
-Multivariate analysis aimed to identify relationships between pairs of variables. A correlation heatmap was generated to visualize the correlations among numerical features. This helped in identifying potential collinearities and understanding variable interactions. Regression plots were also used to examine the relationship between numerical variables and the target variable `Item_Outlet_Sales`.
+Multivariate analysis aimed to identify relationships between pairs of variables. A correlation heatmap was generated to visualize the correlations among numerical features. This helped in identifying potent
+
+
+ial collinearities and understanding variable interactions. Regression plots were also used to examine the relationship between numerical variables and the target variable `Item_Outlet_Sales`.
 
 ![Unknown-8](https://github.com/JCruzJorge/Prediction-of-Product-Sales/assets/139515726/25d868e0-3509-46d8-bb87-382cf65d96f0)
+
+![Unknown-14](https://github.com/JCruzJorge/Prediction-of-Product-Sales/assets/139515726/abd673a3-4f72-4a3e-986c-5e5ff9120ae4)
+
 
 - Here we can see all the data complied and how each column correlates with one another.
 
 ---------------
+
 
 #### Feature Inspection
 Feature inspection involved examining the features' distributions and characteristics. This step was crucial in identifying potential anomalies, patterns, and understanding the data's nature.
